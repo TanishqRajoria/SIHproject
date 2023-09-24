@@ -1,0 +1,136 @@
+ @import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Tilt+Prism&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+}
+
+#first{
+    font-family: 'Cutive Mono', monospace;
+/* font-family: 'Tilt Prism', cursive; */
+color:rgb(255, 47, 47);
+    padding: 20px;
+     margin: 44px;
+width: 15%;
+border: 5px solid rgba(2, 2, 2, 0.9);
+border-radius: 15px;
+display: flex;
+margin-bottom: 10px;
+font-size: 1.5rem;
+font-weight:800;
+
+translate: 500px -80px;
+min-height: 30px;
+}
+#last,#age{
+    font-family: 'Cutive Mono', monospace;
+/* font-family: 'Tilt Prism', cursive; */
+color:rgb(255, 47, 47);
+    padding: 20px;
+     margin: 44px;
+width: 15%;
+border: 5px solid rgba(2, 2, 2, 0.9);
+border-radius: 15px;
+display: flex;
+margin-bottom: 10px;
+font-size: 1.5rem;
+font-weight:800;
+
+translate: 40%;
+min-height: 30px;
+}
+#age{
+    translate:500px -640px;
+}
+#last{
+    translate:800px -200px;
+}
+#email{
+    font-family: 'Cutive Mono', monospace;
+/* font-family: 'Tilt Prism', cursive; */
+color:rgb(255, 47, 47);
+    padding: 20px;
+     margin: 44px;
+width: 20%;
+border: 5px solid rgba(2, 2, 2, 0.9);
+border-radius: 15px;
+display: flex;
+margin-bottom: 10px;
+font-size: 1.5rem;
+font-weight:800;
+
+translate: 40%;
+translate:800px -230px;
+min-height: 30px;
+}
+#phone{
+    font-family: 'Cutive Mono', monospace;
+/* font-family: 'Tilt Prism', cursive; */
+color:rgb(255, 47, 47);
+    padding: 20px;
+     margin: 44px;
+width: 25%;
+border: 5px solid rgba(2, 2, 2, 0.9);
+border-radius: 15px;
+display: flex;
+margin-bottom: 10px;
+font-size: 1.5rem;
+font-weight:800;
+
+translate: 40%;
+translate:800px -420px;
+min-height: 20px;
+}
+#aadhar,#password,#confirm,#add,#lawyer{
+    font-family: 'Cutive Mono', monospace;
+/* font-family: 'Tilt Prism', cursive; */
+color:rgb(255, 47, 47);
+    padding: 20px;
+     margin: 44px;
+width: 15%;
+border: 5px solid rgba(2, 2, 2, 0.9);
+border-radius: 15px;
+display: flex;
+margin-bottom: 10px;
+font-size: 1.5rem;
+font-weight:800;
+
+translate: 40%;
+min-height: 30px;
+}
+#password{
+    translate:500px -680px;
+}
+#confirm{
+    translate:500px -715px;
+}
+#lawyer {
+    translate:500px -600px;
+
+}
+#aadhar{
+    width: 25%;
+    translate:800px -210px;
+
+}
+#add{
+    width:400px;
+    translate:800px -860px; 
+}
+.gender{
+    translate:600px -330px;
+}
+
+.form{
+    max-width: 50%vw;
+    max-height: 500px;;
+
+    background-color: aqua;
+    margin-left: 200px;
+}
+.btn{
+    translate:900px -850px;
+    
+}
+    
+
